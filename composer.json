@@ -1,0 +1,14 @@
+{
+    "name": "bypaul/chuck",
+    "require": {
+        "team-reflex/discord-php": "^6.0",
+        "audeio/spotify-web-api": "0.*",
+        "jwilsson/spotify-web-api-php": "^5.0",
+        "symfony/dotenv": "^5.2"
+    },
+    "autoload": {
+        "classmap": [
+            "classes"
+        ]
+    }
+}
